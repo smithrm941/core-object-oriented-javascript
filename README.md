@@ -13,27 +13,27 @@ Your objectives for the day is to:
 
 ### Scopes
 
-- [ ] Watch these videos on Type and Scope
+- [X] Watch these videos on Type and Scope
   - https://shereef.wistia.com/medias/mlnjxm9z9s
   - https://shereef.wistia.com/medias/hn99v12lkr
   - https://shereef.wistia.com/medias/6snmj6es7v
   - https://shereef.wistia.com/medias/5bva01dxbw
-- [ ] Signup for [Udacity Object Oriented Javascript][udacity]
-- [ ] Complete the [Scopes lesson][udacity]
+- [X] Signup for [Udacity Object Oriented Javascript][udacity]
+- [X] Complete the [Scopes lesson][udacity]
 
 ### Closures
 
-- [ ] Complete the [Closures lesson][udacity]
+- [X] Complete the [Closures lesson][udacity]
 
 ## Day 2: Objects and "this"
 
 ### Objects
 
-- [ ] Watch [Video introduction to Object Oriented Javascript](https://www.youtube.com/watch?v=O8wwnhdkPE4) (1 Hour)
-- [ ] Read [Javascript Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
-- [ ] Read pages 173 to 184 in [Professional JS for Web Developers][projs]
-- [ ] Signup for a free Team Treehouse trial and complete their [Object Oriented Javascript Course] (https://teamtreehouse.com/library/objectoriented-javascript)
-- [ ] Skim this [cheat sheet][cheat]
+- [X] Watch [Video introduction to Object Oriented Javascript](https://www.youtube.com/watch?v=O8wwnhdkPE4) (1 Hour)
+- [X] Read [Javascript Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
+- [X] Read pages 173 to 184 in [Professional JS for Web Developers][projs]
+- [X] Signup for a free Team Treehouse trial and complete their [Object Oriented Javascript Course] (https://teamtreehouse.com/library/objectoriented-javascript)
+- [X] Skim this [cheat sheet][cheat]
 
 ### This
 
@@ -81,7 +81,7 @@ Your objectives for the day is to:
 
 ## Day 5: Final Project and check your understanding
 
-- [ ] Complete the [Final Project][udacity] Lesson on Udacity
+- [X] Complete the [Final Project][udacity] Lesson on Udacity
 
 Do you know/understand:
 
