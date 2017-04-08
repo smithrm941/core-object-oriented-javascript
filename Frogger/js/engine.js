@@ -94,6 +94,9 @@ var Engine = (function(global) {
         allEnemies.forEach(function(enemy) {
             enemy.update(dt);
         });
+        extraLife.forEach(function(star) {
+            star.update(dt);
+        });
         player.update();
     }
 
@@ -150,6 +153,9 @@ var Engine = (function(global) {
         allEnemies.forEach(function(enemy) {
             enemy.render();
         });
+        extraLife.forEach(function(star) {
+            star.render();
+        });
 
         player.render();
     }
@@ -171,7 +177,8 @@ var Engine = (function(global) {
         'images/water-block.png',
         'images/grass-block.png',
         'images/enemy-foot-soldier.png',
-        'images/ninja-turtle-michaelangelo.png'
+        'images/ninja-turtle-michaelangelo.png',
+        'images/Star.png'
     ]);
     Resources.onReady(init);
 
